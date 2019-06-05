@@ -1,0 +1,25 @@
+.class31{
+    position: absolute;
+    top:120px;
+    right:40px;
+    display:inline-block;
+    text-align: center;
+    background-color:rgba(0,0,0,0.2);  
+    
+}
+
+.class31:hover{
+    background:rgba(237, 150, 144,0.7);
+    /* background-color: aqua; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.class32{
+    border-radius: 50%;
+    margin:15px;
+}
+.class33{
+    display: inline-block;
+    margin-right: 5px;
+}
+
